@@ -1,4 +1,4 @@
-FROM ubuntu_20.04__pybase
+FROM mikezh/ubuntu_20.04:pybase
 
 
 RUN apt install wget -y
